@@ -1,13 +1,13 @@
-package com.dhakal.pochub;
+package com.sujit.camundabpmn;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PocHubApplication {
+public class CamundaBpmnApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PocHubApplication.class, args);
+        SpringApplication.run(CamundaBpmnApplication.class, args);
     }
 
 }
